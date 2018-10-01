@@ -1,0 +1,23 @@
+{
+  "name": "react-mobx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "t-kusakabe <ttmac0704@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack --mode development -w"
+  },
+  "dependencies": {
+    "react": "16.5.2",
+    "react-dom": "16.5.2"
+  },
+  "devDependencies": {
+    "@types/react": "16.4.14",
+    "@types/react-dom": "16.0.8",
+    "ts-loader": "5.2.1",
+    "typescript": "3.1.1",
+    "webpack": "4.20.2",
+    "webpack-cli": "3.1.2",
+    "webpack-dev-server": "3.1.9"
+  }
+}
