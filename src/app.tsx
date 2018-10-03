@@ -3,7 +3,7 @@ import * as ReactDOM from 'react-dom';
 
 ReactDOM.render(
     <div>
-        bar
+        foo
     </div>,
     document.querySelector('#app')
 );
